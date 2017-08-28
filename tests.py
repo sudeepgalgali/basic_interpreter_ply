@@ -1,4 +1,4 @@
-imposample_textsys
+import sys
 print "Test 1, with ex1.py"
 sys.argv = ['mini_interpreter.py','ex1.py']
 execfile('mini_interpreter.py')
