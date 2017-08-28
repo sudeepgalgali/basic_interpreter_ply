@@ -1,0 +1,6 @@
+print "sample input file"
+x=10*6
+print x
+y=12+10/2+5*2
+print y
+print y-x
