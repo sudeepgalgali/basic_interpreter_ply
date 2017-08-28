@@ -1,4 +1,4 @@
-print "sample input file"
+print "sample input file" #this will throw as error as the interpreter is not programmed to match "
 x=10*6
 print x
 y=12+10/2+5*2
