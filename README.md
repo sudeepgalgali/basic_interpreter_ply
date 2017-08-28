@@ -27,4 +27,17 @@ integers n
 Usage:
 
 Pass the name of the input file to mini_interpreter.py as a commandline argument
+
 EX: python mini_interpreter.py ex1.py
+
+Roadmap of the repository:
+
+1. mini_interpreter.py : This is the script which performs the interpretation.
+
+2. ex1.py : This is a sample input to the interpreter.
+
+3. sample_inputs: This is another set of sample inputs to the interpreter.
+
+4. tests.py: This script executes mini_interpreter.py with different arguments.
+
+5. All other files are the bare minimum required either by travis or git.
