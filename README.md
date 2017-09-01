@@ -41,3 +41,9 @@ Roadmap of the repository:
 4. tests.py: This script executes mini_interpreter.py with different arguments.
 
 5. All other files are the bare minimum required either by travis or git.
+
+Resrouces:
+
+1. PLY package documentation http://www.dabeaz.com/ply/ply.html
+
+2. A special Thanks to priyanka selvan and priya selvan for their inputs.
